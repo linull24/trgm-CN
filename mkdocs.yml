@@ -1,0 +1,21 @@
+site_name: TRGM-CN
+site_description: Terr***ram 出版系列中文译本
+repo_url: 'https://github.com/linull24/trgm-CN'
+theme:
+  name: material
+  language: zh
+  features:
+  - navigation.tabs
+  - navigation.sections
+  - search.highlight
+  - content.code.copy
+plugins:
+- search:
+    lang: zh
+markdown_extensions:
+- pymdownx.highlight
+- pymdownx.superfences
+- admonition
+- footnotes
+nav:
+- 首页: index.md

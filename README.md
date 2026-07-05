@@ -1,2 +1,3 @@
 # trgm-CN
-translation of trgm
+
+Terr**ram 的中文翻译。
